@@ -10,7 +10,8 @@
 .filters li label {
   display: block;
   font-size: 12px;
-  font-weight: 900;
+  font-weight: 700;
+  font-family: system-ui;
 }
 .filters li input {
   width: 100%;
